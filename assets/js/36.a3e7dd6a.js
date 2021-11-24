@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{379:function(t,e,n){"use strict";n.r(e);var s=n(52),i=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("h2",{attrs:{id:"gibber-main-page"}},[this._v("Gibber main page")])])}),[],!1,null,null,null);e.default=i.exports}}]);
